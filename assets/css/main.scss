@@ -41,3 +41,27 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ---- Romance Research custom branding ---- */
+
+/* Sidebar logo/avatar */
+.author__avatar img {
+  border-radius: 0 !important;   /* remove circular crop */
+  object-fit: contain !important; /* show full logo */
+  background: transparent;
+  padding: 6px;
+  max-width: 180px;
+  max-height: 140px;
+  width: auto;
+  height: auto;
+  border: none;
+  box-shadow: none;
+}
+
+/* Make the avatar container less restrictive */
+.author__avatar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 1rem;
+}
