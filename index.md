@@ -5,7 +5,7 @@ permalink: /
 author_profile: false
 ---
 
-# Romance Research
+# R — Research O — On M — Modeling A — Attraction N — Networks C — Compatibility E — Economics
 
 A playful independent journal exploring love, attraction, compatibility, heartbreak, and modern dating.
 
