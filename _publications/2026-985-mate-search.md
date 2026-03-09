@@ -11,7 +11,8 @@ A graph-theoretic analysis of elite mate search in Beijing, Shanghai, and Shenzh
 
 **Key findings**
 
-- Estimated probability ≈ **1.38%**
+- Estimated probability ≈ **1.45%**
+- Probability for 30+: **1.38%**
 - Social network access increases probability **10×**
 - Network position matters more than age.
 
