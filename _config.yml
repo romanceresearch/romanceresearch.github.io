@@ -16,7 +16,7 @@ repository               : "romanceresearch/romanceresearch.github.io"
 
 # Site Author / Sidebar
 author:
-  avatar                 : "/images/logo.png"
+  avatar                 : "logo.png"
   name                   : "Romance Research"
   pronouns               :
   bio                    : "A playful research journal and editorial collective studying love, attraction, intimacy, modern dating, heartbreak, and the strange logic of human connection."
