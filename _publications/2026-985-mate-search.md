@@ -16,4 +16,4 @@ A graph-theoretic analysis of elite mate search in Beijing, Shanghai, and Shenzh
 - Social network access increases probability **10×**
 - Network position matters more than age.
 
-[Download Paper](/files/985-mate-search.pdf)
+[Download Paper](/files/985_mate_search_paper.pdf)
