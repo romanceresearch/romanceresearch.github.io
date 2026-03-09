@@ -17,4 +17,4 @@ Topics may include attraction, relationships, dating culture, emotional dynamics
 
 Contact:
 
-editor@romanceresearch.org
+romanceresearchinstitute@gmail.com
