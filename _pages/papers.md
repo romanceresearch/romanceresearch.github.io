@@ -5,20 +5,23 @@ permalink: /papers/
 author_profile: false
 ---
 
-### Working Papers
+Romance Research working papers, research notes, and essays.
 
-**The Timing Problem in Modern Romance**
+## Working Papers
 
-A speculative framework explaining why compatible people often meet at the wrong time.
+{% assign papers = site.publications | sort: "date" | reverse %}
+
+{% for post in papers %}
+### [{{ post.title }}]({{ post.url }})
+
+{% if post.venue %}*{{ post.venue }}*{% endif %}
+{% if post.date %} · {{ post.date | date: "%B %Y" }}{% endif %}
+
+{{ post.excerpt | strip_html | truncate: 220 }}
+
+{% if post.paperurl %}
+[Download PDF]({{ post.paperurl }})
+{% endif %}
 
 ---
-
-**Situationships as Incomplete Contracts**
-
-A research-style interpretation of ambiguity in modern dating.
-
----
-
-**Emotional Bayes**
-
-Understanding attraction and uncertainty through probabilistic reasoning.
+{% endfor %}
